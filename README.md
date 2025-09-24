@@ -41,7 +41,3 @@ And then in your code call the function:
 it receives the data in the format mentioned before, an integer variable (counter), the population size (pop_size) and the number of generations (num_generations)
 
 This functions increases the number the generations when a feasible solution is not found with the current number of generations (this depends on the complexity of the problem)
-
-## License
-
-MIT
